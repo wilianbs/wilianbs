@@ -8,10 +8,10 @@
 
 - 🥳 Estar com a família e os amigos
 - 🥇 Praticar Esportes
-- 🍎 Cuidar da Saude
+- 🍎 Cuidar da Saúde
 - 🏋️‍♂️ Academia
 - ⚽ Futebol
-- 🏐 Volei
+- 🏐 Vôlei
 - ✈️ Viajar
 - 🎧 Música
 - 🎮 Games
@@ -37,9 +37,9 @@
 <div/>
 <hr>
 
-### <center>📧**Contato**</center> 
-
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href =" mailto:wilian.batista.santos@gmail.com "> wilian.batista.santos@gmail.com<a/>
 
 
+### <center>📧 **Contato**</center>
+
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href =" mailto:wilian.batista.santos@gmail.com ">wilian.batista.santos@gmail.com<a/>
 
